@@ -74,10 +74,8 @@ nav a {
 #toggle {
     margin-left: 20px;
     border: 1px solid #ccc;
-    width: 10px;
-    height: 40px;
     padding: 10px;
-    border-radius: 10px;
+    border-radius: 20px;
     cursor: pointer;
 }
 
