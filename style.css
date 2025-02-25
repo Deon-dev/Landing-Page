@@ -161,3 +161,8 @@ hr {
     /* transform: translateY(0.5rem); */
     transform: translateY(5px);
 }
+
+i {
+    /* margin-right: 10px; */
+    padding: 10px;
+}
