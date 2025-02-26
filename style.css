@@ -159,10 +159,11 @@ hr {
 
 #btn:active{
     /* transform: translateY(0.5rem); */
-    transform: translateY(5px);
+    transform: translateX(5px);
 }
 
 i {
     /* margin-right: 10px; */
     padding: 10px;
+    font-size: 15px;
 }
